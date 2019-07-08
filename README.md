@@ -5,6 +5,10 @@ A simple python script to automatically download, provision and update a [Kali L
 ## Usage
 `./python3 KaliVM.py`
 
+## Sample Output
+![](https://jerrygamblin.com/wp-content/uploads/2019/07/Screen-Shot-2019-07-08-at-9.13.40-AM.png)
+_I couldn't get guestcontrol to be quite so the output is a little off._
+
 ## Requirements
 *   Requires [Oracle VM VirtualBox](https://www.virtualbox.org/)
 *   Requires [Oracle VM VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
