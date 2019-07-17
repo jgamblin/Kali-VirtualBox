@@ -18,4 +18,4 @@ _I couldn't get guestcontrol to be quite so the output is a little off._
 ## Notes
 *   Creates A VM named `Kali-Day-Month-Year`
 *   Can Use Over 4GB of Data (Watch On Metered Connections).
-*   Takes 30+ Minutes To Build Depending On Connection Speed.,
+*   Takes 30+ Minutes To Build Depending On Connection Speed.
