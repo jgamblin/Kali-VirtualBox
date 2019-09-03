@@ -11,7 +11,7 @@ today = t.strftime('%m-%d-%Y')
 vm_name = "Kali-%s" % today
 
 url = 'https://images.offensive-security.com/\
-virtual-images/kali-linux-2019.2-vbox-amd64.ova'
+virtual-images/kali-linux-2019.3-vbox-amd64.ova'
 
 local_filename = url.split('/')[-1]
 
